@@ -2,4 +2,4 @@
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/xWangHZ/CDN@master/img/github_ui/1.jpg" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/xWangHZ/CDN@master/img/github_ui/1.jpg" style="zoom:20%;" />
