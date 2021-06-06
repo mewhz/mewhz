@@ -2,12 +2,11 @@
 
 <div id="times"></div>
 <script type="text/javascript">
-    function getD1() {
-        let date = new Date();
-        let d1 = date.toLocaleString();
-        let div1 = document.getElementById("times");
-        div1.innerHTML = d1;
-    }
+    window.onload=()=>{
+        setInterval(()=>{
+            document.getElementById("times").innerHTML = Date();
+        },100);
+    };
 </script>
 
 
