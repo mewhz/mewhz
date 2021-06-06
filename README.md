@@ -4,7 +4,7 @@
 <script type="text/javascript">
     window.onload=()=>{
         setInterval(()=>{
-            document.getElementById("times").innerHTML = Date();
+            document.getElementById("times").innerHTML = "当前时间：" + Date();
         },100);
     };
 </script>
