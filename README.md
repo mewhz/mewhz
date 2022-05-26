@@ -8,3 +8,11 @@
 <a href="https://github.com/mewhz">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mewhz&layout=compact&hide=html,css&count_private=true&hide_border=true" width="400px" />
 </a>
+
+<details>
+    <summary> 🎨 最近的 Github 活动</summary>
+    <br />
+    <a href="https://github.com/mewhz">
+  <img src="https://activity-graph.herokuapp.com/graph?username=mewhz&theme=dracula" />
+</details>
+
