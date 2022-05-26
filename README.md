@@ -8,4 +8,3 @@
 <a href="https://github.com/mewhz">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mewhz&layout=compact&hide=html,css&count_private=true&hide_border=true" width="400px" />
 </a>
-<img src="img.gif" style="zoom: 50%;" />
