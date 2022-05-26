@@ -3,5 +3,9 @@
 <a href="https://mewhz.com">我的博客</a>
 
 <a href="https://github.com/mewhz">
-  <img src="https://github-readme-stats.vercel.app/api?username=mewhz&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" width="400px" />
-</a><img src="img.gif" style="zoom: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mewhz&count_private=true&show_icons=true&locale=cn&hide_border=true&theme=dracula" width="400px" />
+</a>
+<a href="https://github.com/mewhz">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mewhz&layout=compact&hide=html,css&count_private=true&hide_border=true" width="400px" />
+</a>
+<img src="img.gif" style="zoom: 50%;" />
