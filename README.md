@@ -15,4 +15,3 @@
     <a href="https://github.com/mewhz">
   <img src="https://activity-graph.herokuapp.com/graph?username=mewhz&theme=dracula" />
 </details>
-
