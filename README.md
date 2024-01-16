@@ -4,5 +4,5 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=mewhz&count_private=true&show_icons=true&locale=cn&hide_border=true&theme=dracula" width="400px"/>
-  <img src="https://pic.mewhz.com/img/faker.gif"/>
+  <img src="https://pic.mewhz.com/img/faker.gif" width="400px"/>
 </div>
