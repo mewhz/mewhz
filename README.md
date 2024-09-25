@@ -4,5 +4,6 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=mewhz&count_private=true&show_icons=true&locale=cn&hide_border=true&theme=dracula" width="400px" />
-  <img src="https://pic.mewhz.com/img/266ED628A95565DFAEDFF46EA257ABC9.gif" width="400px" height="166px" />
+  <img src="img/266ED628A95565DFAEDFF46EA257ABC9.gif" width="400px" height="166px" />
 </div>
+
